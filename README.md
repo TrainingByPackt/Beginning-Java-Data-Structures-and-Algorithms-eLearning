@@ -14,7 +14,7 @@ Algorithms and data structures are crucial for application performance. This cou
 ### Hardware requirements
 For an optimal experience, we recommend the following hardware configuration:
 * **Processor**: Intel Core i3 processor
-* **Memory**: 2 GB RAM
+* **Memory**: 8 GB RAM or more
 * **Hard Disk**: 10 GB 
 * An Internet connection
 
