@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Java-Data-Structures-and-Algorithms-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Java-Data-Structures-and-Algorithms-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Java-Data-Structures-and-Algorithms-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Java-Data-Structures-and-Algorithms-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Java-Data-Structures-and-Algorithms-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Java-Data-Structures-and-Algorithms-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Java-Data-Structures-and-Algorithms-eLearning/pulls)
+
 # Beginning Java Data Structures and Algorithms [eLearning]
 Algorithms and data structures are crucial for application performance. This course teaches you tools that you can use to build efficient applications. It starts with an introduction to algorithms and explains bubble, merge, quicksort, and other popular programming patterns. You’ll also learn about data structures such as binary tree, hash table, and graphs. The course progresses to advanced concepts, such as algorithm design paradigms and graph theory.
 
