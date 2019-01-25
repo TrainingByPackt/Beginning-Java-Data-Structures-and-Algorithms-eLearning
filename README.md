@@ -26,8 +26,8 @@ For an optimal experience, we recommend the following hardware configuration:
 
 
 ### Software requirements
-*	Operating system: Windows 8 64–bit or MacOS 
-*	A text editor:  Notepad++
-*	A terminal: Command Prompt or PowerShell on Windows or Terminal on MacOS
-*	A run-time environment: Java Runtime Environment(JRE) 1.6 or higher
-*	A software development kit: Java SE Development Kit, JDK 8 (or a later version)
+*	**Operating system**: Windows 8 64–bit or MacOS 
+*	**A text editor**:  Notepad++
+*	**A terminal**: Command Prompt or PowerShell on Windows or Terminal on MacOS
+*	**A run-time environment**: Java Runtime Environment(JRE) 1.6 or higher
+*	**A software development kit**: Java SE Development Kit, JDK 8 (or a later version)
